@@ -1,7 +1,7 @@
 ### Hi there, I'm Mukil 👋
-## I'm a Passionate Programmer and a Budding Developer 👨🏾‍💻
+## I'm a Passionate Programmer & a Budding Developer 👨🏾‍💻
 
-- 🌱 I’m currently learning Front-End Development technologies!
+- 🌱 I’m currently learning some Front-End technologies!
 - 😄 Pronouns: he/him
 
 
@@ -9,7 +9,7 @@
 
 [<img align="left" alt="Mukil | Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />](https://twitter.com/Tamil_coder)
 [<img align="left" alt="Mukil | LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" />](https://www.linkedin.com/in/mukilja/)
-[<img align="left" alt="Mukil | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/59/instagram.svg" />](https://www.instagram.com/mukil_ja/)
+[<img align="left" alt="Mukil | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/93/instagram.svg" />](https://www.instagram.com/mukil_ja/)
 
 <br />
 
