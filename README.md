@@ -7,9 +7,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://www.freepnglogos.com/pics/logo-twitter-png" />](https://twitter.com/Tamil_coder)
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mukilja/)
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mukil_ja/)
+[<img align="left" alt="Mukil | Twitter" width="22px" src="file:///C:/Users/Mukil/AppData/Local/Temp/Temp1_twitter-vector-logo-25DDC099C5-seeklogo.com.zip/twitter-seeklogo.com.svg" />](https://twitter.com/Tamil_coder)
+[<img align="left" alt="Mukil | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/mukilja/)
+[<img align="left" alt="Mukil | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />](https://www.instagram.com/mukil_ja/)
 
 <br />
 
