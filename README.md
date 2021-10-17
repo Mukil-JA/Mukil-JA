@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Front-End Development tools
 - 😄 Pronouns: he/him
 
-## I'm a Passionate Programmer and a Budding Developer
+## I'm a Passionate Programmer and a Budding Developer 👨🏾‍💻
 
 ### Connect with me:
 
