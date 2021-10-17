@@ -42,3 +42,12 @@
   </p>
 </details>
 
+<details>
+  <summary><b>⚡ Recent GitHub Activity</b></summary>
+  <br/>
+   <a href="https://github.com/Mukil-JA"><img alt="Mukil's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Mukil-JA&custom_title=Mukil's%20Contribution%20Graph&theme=react-dark" /></a>
+  <br/>
+
+</details>
+
+
