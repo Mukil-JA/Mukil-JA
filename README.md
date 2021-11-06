@@ -7,7 +7,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Mukil | Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />](https://twitter.com/Tamil_coder)
+[<img align="left" alt="Mukil | Twitter" width="22px" src="https://cdn.cdnlogo.com/logos/t/96/twitter-icon.svg" />](https://twitter.com/handle_name)
 [<img align="left" alt="Mukil | LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/78/linkedin-icon.svg" />](https://www.linkedin.com/in/mukilja/)
 [<img align="left" alt="Mukil | Instagram" width="22px" src="https://cdn.cdnlogo.com/logos/i/93/instagram.svg" />](https://www.instagram.com/mukil_ja/)
 
