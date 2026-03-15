@@ -1,7 +1,7 @@
 ### Hi there, I'm Mukil 👋
-## I'm a Passionate Programmer & a Budding Developer 👨🏾‍💻
+## I'm a Passionate Software Developer 👨🏾‍💻
 
-- 🌱 I’m currently learning some Front-End technologies!
+- 🌱 I’m currently learning Agentic AI, RAG, MCP and more!!
 - 😄 Pronouns: he/him
 
 
